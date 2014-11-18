@@ -7,6 +7,8 @@ Therefore I create this repo as a temporary plan. The solid plan will be have a 
 
 ##Updated Results
 
++ Comparison of BP and Feedback alignment using MNIST dataset.
+
 ##Contacts
 
 Hu Yuhuang  
