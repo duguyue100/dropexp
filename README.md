@@ -8,7 +8,9 @@ Therefore I create this repo as a temporary plan. The solid plan will be have a 
 ##Updated Results
 
 + Comparison of BP and Feedback alignment using MNIST dataset.
-+ First MLP network result for SUSY dataset.
++ First MLP network result for SUSY dataset (network config: 18-300-1).
++ Second MLP network result for SUSY dataset (network config: 18-300-300-1).
++ First Stacked Autoencoder network result for SUSY dataset (network config: 18-300-300-1). [2014-12-14]
 
 ##Contacts
 
