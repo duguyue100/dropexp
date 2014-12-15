@@ -11,7 +11,8 @@ Therefore I create this repo as a temporary plan. The solid plan will be have a 
 + First MLP network result for SUSY dataset (network config: 18-300-1).
 + Second MLP network result for SUSY dataset (network config: 18-300-300-1).
 + First Stacked Autoencoder network result for SUSY dataset (network config: 18-300-300-1). [2014-12-14]
-+ Third MLP network result for SUSY dataset (network config: 18-300-300-300-1).
++ Third MLP network result for SUSY dataset (network config: 18-300-300-300-1). [2014-12-16]
++ Second SAEs result for SUSY dataset (network config: 18-600-600-1). [2014-12-16]
 
 ##Contacts
 
